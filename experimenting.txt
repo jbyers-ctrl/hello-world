@@ -1,1 +1,3 @@
 Just created a new branch.
+
+Adding another line to commit.
